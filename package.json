@@ -1,0 +1,21 @@
+{
+  "name": "node_webapp_with_zeor_downtime_deployement",
+  "version": "1.0.0",
+  "description": "node web app with zero downtime deployement",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "deploy",
+    "noDowntime",
+    "web"
+  ],
+  "author": "a.elouazzany@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "clear-require": "^2.0.0"
+  }
+}
